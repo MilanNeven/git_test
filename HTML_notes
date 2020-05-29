@@ -1,0 +1,9 @@
+HTML: http://webapps-for-beginners.rubymonstas.org/html.html
+
+-HTML is a Semantic strucutre, is the instructions for the web browser that is given by the
+website/web server.
+
+-when using google, the search uses relavant key words from the html document from,<title>
+tag, then from <H1> header tags. header tags can also be used as a table of contents.
+
+-HTML documents are also called templates.
